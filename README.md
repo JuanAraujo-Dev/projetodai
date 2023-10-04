@@ -3,8 +3,8 @@
 - Luiz Francisco
 - Maria Paula
 - Willian Lopes
-- Gilbeto
-- Beatriz
+- Gilberto Alves
+- Ana Beatriz 
 
 # Tecnologias
 
