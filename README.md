@@ -4,7 +4,8 @@
 - Maria Paula
 - Willian Lopes
 - Gilberto Alves
-- Ana Beatriz 
+- Ana Beatriz
+- Naion William
 
 # Tecnologias
 
