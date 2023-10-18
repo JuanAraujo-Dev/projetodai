@@ -68,12 +68,14 @@ main {
     margin-bottom: 20px;
     justify-content: center;
     display: flex;
+    padding-top: 80px;
 }
 
 .secaoMembros{
     display: flex;
-    justify-content: center;
+    justify-content: space-evenly;
     padding: 15px 20px;
+    padding-top: 90px;
 }
 
 .info-container{
