@@ -115,6 +115,13 @@ padding: 20px 0;
     display: block;
 }
 
+figure.links{
+    width: 100%;
+    max-width: 150px;
+    display: flex;
+    gap: 20px;
+}
+
 figure.perfil{
     width: 300px;
     height: 534px;
