@@ -31,8 +31,8 @@ header {
 }
 
 .logo {
-    height: 100px;
-    width: 100px;
+    height: 70px;
+    width: 70px;
     transition: transform 0.5s;
     animation: spin 7s infinite alternate;
 }
