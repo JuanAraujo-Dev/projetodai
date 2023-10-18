@@ -90,9 +90,16 @@ main {
     border-radius: 10px;
     transition: transform 0.5s;
 }
+
+.botao p {
+    pointer-events:none;
+}
+
 .botao:hover{
     transform: scale(1.1);
-    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0);
+    cursor: pointer;
+    background-color: #fff;
+    color: black;
 }
 
 .info-container{
